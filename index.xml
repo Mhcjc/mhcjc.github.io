@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Objectman</title>
+    <link>https://mhcjc.github.io/</link>
+    <description>Recent content on Objectman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2019 16:39:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://mhcjc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ECIT数据结构复习指北</title>
+      <link>https://mhcjc.github.io/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</link>
+      <pubDate>Sat, 30 Nov 2019 16:39:44 +0800</pubDate>
+      
+      <guid>https://mhcjc.github.io/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</guid>
+      <description>ECIT数据结构复习指北 ​	纯属娱乐，如果发现问题联系2024099381
+数据结构的概念： ​	自行百度。
+线性表的线性储存结构： 考点   线性表的插入： ① 将线性表的第i个数据元素到第n个元素之间的所有元素一次向后移动一个位置
+②将元素item插入第i个位置
+③修改表长为n+1
+注意移动的顺序，千万得从后面的开始移动不然会覆盖前面的元素。 arr[j] = arr[j+1];
+算法：
+void INSERTLIST(int A[], int &amp;amp;n, int i, int t) /*注意n的引用是为了标记数组元素个数，i为插入的位置，t为插入元素*/ { int j; if(n == MaxSize || i&amp;lt;1 || i&amp;gt;n+1)	//判断数组是否已满， 以及i是否符合数组的大小  { cout&amp;lt;&amp;lt; &amp;#34;数组已满或插入位置不正确&amp;#34;&amp;lt;&amp;lt;endl; exit(0); } for(j = n-1; j&amp;gt;= i-1; j--) A[j+1] = A[j]; A[i-1] = t; n++; }   线性表的删除： 与上面类似
+不过须要注意的是可以直接用后面的元素覆盖前面的元素就可以了 arr[i] = arr[i+1]</description>
+    </item>
+    
+  </channel>
+</rss>
