@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</loc>
+    <loc>https://mhcjc.github.io/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</loc>
     <lastmod>2019-11-30T16:39:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://mhcjc.github.io/</loc>
     <lastmod>2019-11-30T16:39:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mhcjc.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mhcjc.github.io/tags/</loc>
   </url>
   
 </urlset>

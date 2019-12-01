@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Objectman</title>
-    <link>http://example.org/</link>
+    <link>https://mhcjc.github.io/</link>
     <description>Recent content on Objectman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2019 16:39:44 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mhcjc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ECIT数据结构复习指北</title>
-      <link>http://example.org/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</link>
+      <link>https://mhcjc.github.io/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</link>
       <pubDate>Sat, 30 Nov 2019 16:39:44 +0800</pubDate>
       
-      <guid>http://example.org/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</guid>
+      <guid>https://mhcjc.github.io/ecit%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%8C%97/</guid>
       <description>ECIT数据结构复习指北 ​	纯属娱乐，如果发现问题联系2024099381
 数据结构的概念： ​	自行百度。
 线性表的线性储存结构： 考点   线性表的插入： ① 将线性表的第i个数据元素到第n个元素之间的所有元素一次向后移动一个位置
